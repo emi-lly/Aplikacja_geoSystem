@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Aplikacja.Models.IPinfo2
+
+@{
+    <h2>Informacja o adresie IP:</h2>
+
+
+    <table>
+        <tr>
+            <th>Country Name:</th> <td>@Html.DisplayFor(Model=>Model.countryName)</td>
+        </tr>
+        <tr>
+            <th>Country Code:</th> <td>@Html.DisplayFor(Model => Model.countryCode)</td>
+        </tr>
+        <tr>
+            <th>City Name:</th>
+            <td>@Html.DisplayFor(Model => Model.cityName)</td>
+        </tr>
+        <tr>
+            <th>Region Name:</th>
+            <td>@Html.DisplayFor(Model => Model.regionName)</td>
+        </tr>
+        <tr>
+            <th>Zip Code:</th>
+            <td>@Html.DisplayFor(Model => Model.zipCode)</td>
+        </tr>
+        <tr>
+            <th>Longitude:</th>
+            <td>@Html.DisplayFor(Model => Model.longitude)</td>
+        </tr>
+        <tr>
+            <th>Latitude:</th>
+            <td>@Html.DisplayFor(Model => Model.latitude)</td>
+        </tr>
+        <tr>
+            <th>Time zone:</th>
+            <td>@Html.DisplayFor(Model => Model.timeZone)</td>
+        </tr>
+
+
+
+    </table>
+}

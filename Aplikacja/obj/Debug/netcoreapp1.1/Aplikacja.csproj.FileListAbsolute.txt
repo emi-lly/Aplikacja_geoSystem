@@ -1,0 +1,9 @@
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\bin\Debug\netcoreapp1.1\Aplikacja.deps.json
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\bin\Debug\netcoreapp1.1\Aplikacja.runtimeconfig.json
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\bin\Debug\netcoreapp1.1\Aplikacja.runtimeconfig.dev.json
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\bin\Debug\netcoreapp1.1\Aplikacja.dll
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\bin\Debug\netcoreapp1.1\Aplikacja.pdb
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\obj\Debug\netcoreapp1.1\Aplikacja.csprojResolveAssemblyReference.cache
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\obj\Debug\netcoreapp1.1\Aplikacja.AssemblyInfo.cs
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\obj\Debug\netcoreapp1.1\Aplikacja.dll
+H:\Studia informatyka\Praca dyplomowa\Aplikacja\Aplikacja\Aplikacja\obj\Debug\netcoreapp1.1\Aplikacja.pdb
